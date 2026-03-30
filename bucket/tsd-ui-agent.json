@@ -1,10 +1,10 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "TSD UI Agent - AI-assisted software development task manager",
     "homepage": "https://github.com/carlosthe19916/tsd-ui-agent",
     "license": "Apache-2.0",
-    "url": "https://github.com/carlosthe19916/tsd-ui-agent/releases/download/v1.0.0/tsd-ui-agent-1.0.0-windows-amd64.zip",
-    "hash": "sha256:7a0e8f0f9efb367e153b0d9bdfb301c1e4fcaf82b983ef9f43b57d5dc6ab7e20",
+    "url": "https://github.com/carlosthe19916/tsd-ui-agent/releases/download/v1.0.1/tsd-ui-agent-1.0.1-windows-amd64.zip",
+    "hash": "sha256:943c7270c63bd9b18a651a30a273d9d53f3b034c9f5ec8d32a0aa3573d91c777",
     "extract_dir": "tsd-ui-agent.exe",
     "env_add_path": "bin",
     "checkver": {
